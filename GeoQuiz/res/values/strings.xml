@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Buttons -->
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="show_answer_button">Show Answer</string>
+    
+    <!-- Toasts -->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    
+    <string name="end_text">There are no more questions to show!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+
+</resources>
